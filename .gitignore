@@ -1,0 +1,7 @@
+echo "node_modules/" >> .gitignore
+echo "*.env" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "volumes/" >> .gitignore
+echo "mayan-edms-data/" >> .gitignore
+echo "mayan-postgres-data/" >> .gitignore
